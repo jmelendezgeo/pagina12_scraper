@@ -7,4 +7,4 @@ Al ejecutar todas las celdas el Scraper visita la pagina principal de [Pagina12]
 
 Al final te muestra las noticias en un Dataframe para su transformacion.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jI-F7jx5Z66XvlzGLp6TFL37fzQQnSZ0?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jI-F7jx5Z66XvlzGLp6TFL37fzQQnSZ0?usp=sharing)
